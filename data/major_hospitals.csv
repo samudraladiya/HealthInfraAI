@@ -1,0 +1,38 @@
+Synthetic_Record,Hospital Name,District,Area,Hospital Type,Ownership,Latitude,Longitude,Beds,Services,Emergency,Data_Status,Source_Type
+1,Apollo Hospitals Jubilee Hills,Hyderabad,Jubilee Hills,Tertiary Hospital,Private,17.4239,78.4101,350,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+2,Yashoda Hospitals Somajiguda,Hyderabad,Somajiguda,Tertiary Hospital,Private,17.4239,78.4598,500,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+3,Yashoda Hospitals Secunderabad,Hyderabad,Secunderabad,Tertiary Hospital,Private,17.4427,78.4988,450,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+4,Yashoda Hospitals Malakpet,Hyderabad,Malakpet,Tertiary Hospital,Private,17.3656,78.5,350,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+5,Yashoda Hospitals Hitec City,Hyderabad,HITEC City,Tertiary Hospital,Private,17.4474,78.3762,350,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+6,AIG Hospitals,Hyderabad,Gachibowli,Tertiary Hospital,Private,17.4401,78.3489,350,Gastroenterology; Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+7,CARE Hospitals Banjara Hills,Hyderabad,Banjara Hills,Tertiary Hospital,Private,17.414,78.4483,435,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+8,CARE Hospitals HITEC City,Hyderabad,HITEC City,Tertiary Hospital,Private,17.4435,78.3772,250,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+9,KIMS Hospitals Secunderabad,Hyderabad,Secunderabad,Tertiary Hospital,Private,17.4399,78.502,750,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+10,Continental Hospitals,Rangareddy,Gachibowli,Tertiary Hospital,Private,17.4156,78.345,750,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+11,Sunshine Hospitals,Hyderabad,Paradise/Secunderabad,Tertiary Hospital,Private,17.4437,78.4867,300,Orthopaedics; Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+12,Aster Prime Hospital,Hyderabad,Ameerpet,Tertiary Hospital,Private,17.438,78.4483,150,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+13,NIMS Hospital,Hyderabad,Punjagutta,Government Teaching Hospital,Government,17.4245,78.451,1000,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+14,Osmania General Hospital,Hyderabad,Afzal Gunj,Government Teaching Hospital,Government,17.3715,78.476,1100,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+15,Gandhi Hospital,Hyderabad,Musheerabad,Government Teaching Hospital,Government,17.4144,78.5,1200,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+16,MNJ Institute of Oncology,Hyderabad,Lakdikapul,Specialty Hospital,Government,17.4005,78.4618,450,Oncology,Yes,Synthetic,Synthetic modeled hospital directory
+17,Niloufer Hospital,Hyderabad,Red Hills,Government Specialty Hospital,Government,17.393,78.4555,1000,Women & Children,Yes,Synthetic,Synthetic modeled hospital directory
+18,Basavatarakam Indo American Cancer Hospital,Hyderabad,Banjara Hills,Specialty Hospital,Trust,17.4135,78.4457,500,Oncology,Yes,Synthetic,Synthetic modeled hospital directory
+19,Rainbow Children's Hospital,Hyderabad,Banjara Hills,Specialty Hospital,Private,17.416,78.4488,225,Paediatrics; Women & Children,Yes,Synthetic,Synthetic modeled hospital directory
+20,Virinchi Hospitals,Hyderabad,Banjara Hills,Tertiary Hospital,Private,17.4089,78.448,350,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+21,Kamineni Hospitals,Hyderabad,LB Nagar,Tertiary Hospital,Private,17.3467,78.5578,300,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+22,Kamineni Academy of Medical Sciences,Rangareddy,LB Nagar,Teaching Hospital,Private,17.348,78.557,500,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+23,Apollo Hospitals Secunderabad,Hyderabad,Secunderabad,Tertiary Hospital,Private,17.443,78.503,300,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+24,Apollo Hospitals DRDO,Hyderabad,Kanchanbagh,Specialty Hospital,Private,17.3295,78.521,350,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+25,Apollo Reach Hospital Karimnagar,Karimnagar,Karimnagar,Tertiary Hospital,Private,18.4386,79.1288,250,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+26,Apollo Reach Hospital Warangal,Hanumakonda,Warangal,Tertiary Hospital,Private,17.9689,79.5941,200,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+27,KIMS Hospital Kondapur,Rangareddy,Kondapur,Tertiary Hospital,Private,17.4699,78.367,300,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+28,AIG Hospitals Karimnagar,Karimnagar,Karimnagar,Tertiary Hospital,Private,18.43,79.13,150,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+29,Prathima Institute of Medical Sciences,Karimnagar,Nagunur,Teaching Hospital,Private,18.38,79.16,750,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+30,Malla Reddy Narayana Multispeciality Hospital,Medchal-Malkajgiri,Suraram,Tertiary Hospital,Private,17.555,78.438,500,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+31,Malla Reddy Institute of Medical Sciences,Medchal-Malkajgiri,Suraram,Teaching Hospital,Private,17.556,78.439,750,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+32,Medicover Hospitals Hitec City,Rangareddy,HITEC City,Tertiary Hospital,Private,17.453,78.378,250,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+33,KIMS Hospital Warangal,Hanumakonda,Warangal,Tertiary Hospital,Private,17.985,79.6,250,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+34,Prathima Hospitals Warangal,Hanumakonda,Warangal,Tertiary Hospital,Private,17.99,79.59,200,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+35,Mamata Academy of Medical Sciences,Khammam,Khammam,Teaching Hospital,Private,17.2473,80.1514,750,Multi-specialty; Teaching,Yes,Synthetic,Synthetic modeled hospital directory
+36,Mamata General Hospital,Khammam,Khammam,Tertiary Hospital,Private,17.25,80.15,400,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory
+37,Aster Aadhar Hospital,Nizamabad,Nizamabad,Tertiary Hospital,Private,18.67,78.1,200,Multi-specialty,Yes,Synthetic,Synthetic modeled hospital directory

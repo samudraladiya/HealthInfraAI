@@ -1,0 +1,331 @@
+{
+ "raw_rows": 7001,
+ "raw_cols": 13,
+ "raw_missing": {
+  "State": 0,
+  "District": 0,
+  "Taluka": 277,
+  "Facility Name": 0,
+  "Facility Type": 0,
+  "Latitude": 12,
+  "longitude": 12,
+  "Street": 578,
+  "Landmark": 611,
+  "Locality": 419,
+  "Region Indicator": 17,
+  "Operational Status": 0,
+  "Ownership Authority": 18
+ },
+ "raw_duplicates": 3,
+ "raw_types": 18,
+ "clean_types": 18,
+ "raw_districts": 33,
+ "ownership_labels": {
+  "State Government": 6473,
+  "Private - for profit": 440,
+  "Private - not for profit": 33,
+  "Others": 21,
+  "Hospital": 12,
+  "Central Government - CGHS": 1,
+  "Central Government - Other ministries": 1,
+  "Central Government - ESI": 1,
+  "Municipal Corporation": 1
+ },
+ "population": 36261279,
+ "facilities": 7001,
+ "beds": 65469,
+ "doctors": 16903,
+ "beds_per_1000_state": 1.80547961366724,
+ "doctors_per_100k_state": 46.61446166860248,
+ "fac_desc": {
+  "count": 33.0,
+  "mean": 212.15,
+  "std": 79.23,
+  "min": 116.0,
+  "25%": 151.0,
+  "50%": 195.0,
+  "75%": 250.0,
+  "max": 415.0
+ },
+ "type_counts": {
+  "SubCentre": 4723,
+  "Primary Health Centre": 646,
+  "Ayurveda dispensary": 419,
+  "Urban health and wellness center (UHWC)": 380,
+  "Urban Health Centre (UPHC)": 243,
+  "Homoeopathy dispensary": 201,
+  "Unani dispensary": 185,
+  "Community Health Center": 98,
+  "Sub-District Hospital": 33,
+  "Yoga And Naturopathy dispensary": 27,
+  "Medical Colleges Hospital": 16,
+  "Ayush Teaching Hospital": 9,
+  "District Hospital": 7,
+  "Women Hospital": 4,
+  "Ayush Dispensaries": 4,
+  "M&CW Center": 3,
+  "Post Partum Unit": 2,
+  "Others": 1
+ },
+ "Beds_per_1000": {
+  "top": {
+   "Hyderabad": 4.0,
+   "Warangal": 2.61,
+   "Hanumakonda": 2.39,
+   "Medchal-Malkajgiri": 2.25,
+   "Adilabad": 2.06
+  },
+  "bottom": {
+   "Rajanna Sircilla": 1.02,
+   "Mahabubabad": 1.01,
+   "Jogulamba Gadwal": 0.98,
+   "Kumuram Bheem": 0.97,
+   "Jayashankar Bhupalpally": 0.8
+  },
+  "mean": 1.5,
+  "median": 1.31
+ },
+ "Doctors_per_100000": {
+  "top": {
+   "Hyderabad": 104.96,
+   "Warangal": 68.64,
+   "Hanumakonda": 65.6,
+   "Adilabad": 56.14,
+   "Rangareddy": 54.39
+  },
+  "bottom": {
+   "Nagarkurnool": 27.27,
+   "Jogulamba Gadwal": 27.05,
+   "Narayanpet": 25.62,
+   "Mahabubabad": 23.88,
+   "Jayashankar Bhupalpally": 18.55
+  },
+  "mean": 38.68,
+  "median": 32.47
+ },
+ "Facilities_per_100000": {
+  "top": {
+   "Mulugu": 39.67,
+   "Bhadradri Kothagudem": 29.46,
+   "Kumuram Bheem": 29.27,
+   "Nagarkurnool": 28.43,
+   "Mahabubabad": 28.15
+  },
+  "bottom": {
+   "Warangal": 14.82,
+   "Hanumakonda": 14.31,
+   "Mahabubnagar": 11.17,
+   "Medchal-Malkajgiri": 10.25,
+   "Hyderabad": 7.81
+  },
+  "mean": 21.86,
+  "median": 21.68
+ },
+ "pop_beds_corr": 0.93,
+ "rural_urban_share": {
+  "Population": {
+   "Rural": 51.6,
+   "Urban": 48.4
+  },
+  "Facilities": {
+   "Rural": 83.3,
+   "Urban": 16.7
+  },
+  "Hospital beds (est.)": {
+   "Rural": 17.5,
+   "Urban": 82.5
+  },
+  "Doctors (est.)": {
+   "Rural": 22.2,
+   "Urban": 77.8
+  }
+ },
+ "rural_beds_per_1000": 0.6206879463180489,
+ "urban_beds_per_1000": 3.120223380483794,
+ "rural_docs_per_100k": 19.785329442556755,
+ "urban_docs_per_100k": 74.17616242634921,
+ "gini_beds": 0.24,
+ "corr": {
+  "Population": {
+   "Population": 1.0,
+   "Total_Facilities": 0.67,
+   "Beds in all Hospitals": 0.93,
+   "Doctors in all Hospitals": 0.92,
+   "Health Sub-Centres": 0.04,
+   "Primary Health Centres": -0.07,
+   "Community Health Centres": 0.67,
+   "Area Hospitals": 0.4,
+   "Teaching Hospitals": 0.73,
+   "Urban Population (%)": 0.84
+  },
+  "Total_Facilities": {
+   "Population": 0.67,
+   "Total_Facilities": 1.0,
+   "Beds in all Hospitals": 0.45,
+   "Doctors in all Hospitals": 0.46,
+   "Health Sub-Centres": 0.74,
+   "Primary Health Centres": 0.64,
+   "Community Health Centres": 0.59,
+   "Area Hospitals": 0.54,
+   "Teaching Hospitals": 0.22,
+   "Urban Population (%)": 0.46
+  },
+  "Beds in all Hospitals": {
+   "Population": 0.93,
+   "Total_Facilities": 0.45,
+   "Beds in all Hospitals": 1.0,
+   "Doctors in all Hospitals": 1.0,
+   "Health Sub-Centres": -0.24,
+   "Primary Health Centres": -0.32,
+   "Community Health Centres": 0.67,
+   "Area Hospitals": 0.37,
+   "Teaching Hospitals": 0.91,
+   "Urban Population (%)": 0.81
+  },
+  "Doctors in all Hospitals": {
+   "Population": 0.92,
+   "Total_Facilities": 0.46,
+   "Beds in all Hospitals": 1.0,
+   "Doctors in all Hospitals": 1.0,
+   "Health Sub-Centres": -0.24,
+   "Primary Health Centres": -0.3,
+   "Community Health Centres": 0.7,
+   "Area Hospitals": 0.37,
+   "Teaching Hospitals": 0.92,
+   "Urban Population (%)": 0.79
+  },
+  "Health Sub-Centres": {
+   "Population": 0.04,
+   "Total_Facilities": 0.74,
+   "Beds in all Hospitals": -0.24,
+   "Doctors in all Hospitals": -0.24,
+   "Health Sub-Centres": 1.0,
+   "Primary Health Centres": 0.93,
+   "Community Health Centres": 0.11,
+   "Area Hospitals": 0.29,
+   "Teaching Hospitals": -0.4,
+   "Urban Population (%)": -0.08
+  },
+  "Primary Health Centres": {
+   "Population": -0.07,
+   "Total_Facilities": 0.64,
+   "Beds in all Hospitals": -0.32,
+   "Doctors in all Hospitals": -0.3,
+   "Health Sub-Centres": 0.93,
+   "Primary Health Centres": 1.0,
+   "Community Health Centres": 0.03,
+   "Area Hospitals": 0.23,
+   "Teaching Hospitals": -0.42,
+   "Urban Population (%)": -0.18
+  },
+  "Community Health Centres": {
+   "Population": 0.67,
+   "Total_Facilities": 0.59,
+   "Beds in all Hospitals": 0.67,
+   "Doctors in all Hospitals": 0.7,
+   "Health Sub-Centres": 0.11,
+   "Primary Health Centres": 0.03,
+   "Community Health Centres": 1.0,
+   "Area Hospitals": 0.39,
+   "Teaching Hospitals": 0.61,
+   "Urban Population (%)": 0.43
+  },
+  "Area Hospitals": {
+   "Population": 0.4,
+   "Total_Facilities": 0.54,
+   "Beds in all Hospitals": 0.37,
+   "Doctors in all Hospitals": 0.37,
+   "Health Sub-Centres": 0.29,
+   "Primary Health Centres": 0.23,
+   "Community Health Centres": 0.39,
+   "Area Hospitals": 1.0,
+   "Teaching Hospitals": 0.28,
+   "Urban Population (%)": 0.16
+  },
+  "Teaching Hospitals": {
+   "Population": 0.73,
+   "Total_Facilities": 0.22,
+   "Beds in all Hospitals": 0.91,
+   "Doctors in all Hospitals": 0.92,
+   "Health Sub-Centres": -0.4,
+   "Primary Health Centres": -0.42,
+   "Community Health Centres": 0.61,
+   "Area Hospitals": 0.28,
+   "Teaching Hospitals": 1.0,
+   "Urban Population (%)": 0.59
+  },
+  "Urban Population (%)": {
+   "Population": 0.84,
+   "Total_Facilities": 0.46,
+   "Beds in all Hospitals": 0.81,
+   "Doctors in all Hospitals": 0.79,
+   "Health Sub-Centres": -0.08,
+   "Primary Health Centres": -0.18,
+   "Community Health Centres": 0.43,
+   "Area Hospitals": 0.16,
+   "Teaching Hospitals": 0.59,
+   "Urban Population (%)": 1.0
+  }
+ },
+ "mapped_points": 6969,
+ "dropped_coords": 32,
+ "nn_median": 11.5,
+ "nn_mean": 12.3,
+ "nn_over_20": 14.9,
+ "nn_over_30": 1.7,
+ "nn_district_worst": {
+  "Jogulamba Gadwal": 21.6,
+  "Kumuram Bheem": 18.3,
+  "Jangaon": 16.5,
+  "Mahabubabad": 15.6,
+  "Nalgonda": 15.1,
+  "Adilabad": 15.1
+ },
+ "nn_district_best": {
+  "Kamareddy": 8.8,
+  "Nizamabad": 8.4,
+  "Medchal-Malkajgiri": 5.6,
+  "Hyderabad": 1.4
+ },
+ "n_primary": 5355,
+ "n_bedded": 155,
+ "clusters": {
+  "0": {
+   "Beds_per_1000": 1.29,
+   "Doctors_per_100000": 33.36,
+   "Facilities_per_100000": 23.48,
+   "Rural_Facility_Percent": 92.71,
+   "Districts": 28,
+   "Members": "Adilabad, Bhadradri Kothagudem, Jagtial, Jangaon, Jayashankar Bhupalpally, Jogulamba Gadwal, Kamareddy, Karimnagar, Khammam, Kumuram Bheem, Mahabubabad, Mahabubnagar, Mancherial, Medak, Mulugu, Nagarkurnool, Nalgonda, Narayanpet, Nirmal, Nizamabad, Peddapalli, Rajanna Sircilla, Sangareddy, Siddipet, Suryapet, Vikarabad, Wanaparthy, Yadadri Bhuvanagiri"
+  },
+  "1": {
+   "Beds_per_1000": 2.29,
+   "Doctors_per_100000": 59.42,
+   "Facilities_per_100000": 14.08,
+   "Rural_Facility_Percent": 61.41,
+   "Districts": 4,
+   "Members": "Hanumakonda, Medchal-Malkajgiri, Rangareddy, Warangal"
+  },
+  "2": {
+   "Beds_per_1000": 4.0,
+   "Doctors_per_100000": 104.96,
+   "Facilities_per_100000": 7.81,
+   "Rural_Facility_Percent": 1.3,
+   "Districts": 1,
+   "Members": "Hyderabad"
+  }
+ },
+ "rf_mae": 506.9,
+ "rf_rmse": 650.8,
+ "rf_r2": 0.52,
+ "rf_train": 26,
+ "rf_test": 7,
+ "rf_importance": {
+  "Doctors in all Hospitals": 0.305,
+  "Population": 0.214,
+  "Area Hospitals": 0.097,
+  "Primary Health Centres": 0.076,
+  "Community Health Centres": 0.075,
+  "Ayurveda Hospitals (incl. Dispensaries)": 0.06
+ }
+}

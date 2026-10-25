@@ -1,0 +1,38 @@
+Name,District,Type,Ownership,Latitude,Longitude,Beds,Services,Emergency,Data_Status
+Apollo Hospitals Jubilee Hills,Hyderabad,Tertiary Hospital,Private,17.4239,78.4101,350,Multi-specialty,Yes,Synthetic
+Yashoda Hospitals Somajiguda,Hyderabad,Tertiary Hospital,Private,17.4239,78.4598,500,Multi-specialty,Yes,Synthetic
+Yashoda Hospitals Secunderabad,Hyderabad,Tertiary Hospital,Private,17.4427,78.4988,450,Multi-specialty,Yes,Synthetic
+Yashoda Hospitals Malakpet,Hyderabad,Tertiary Hospital,Private,17.3656,78.5,350,Multi-specialty,Yes,Synthetic
+Yashoda Hospitals Hitec City,Hyderabad,Tertiary Hospital,Private,17.4474,78.3762,350,Multi-specialty,Yes,Synthetic
+AIG Hospitals,Hyderabad,Tertiary Hospital,Private,17.4401,78.3489,350,Gastroenterology; Multi-specialty,Yes,Synthetic
+CARE Hospitals Banjara Hills,Hyderabad,Tertiary Hospital,Private,17.414,78.4483,435,Multi-specialty,Yes,Synthetic
+CARE Hospitals HITEC City,Hyderabad,Tertiary Hospital,Private,17.4435,78.3772,250,Multi-specialty,Yes,Synthetic
+KIMS Hospitals Secunderabad,Hyderabad,Tertiary Hospital,Private,17.4399,78.502,750,Multi-specialty,Yes,Synthetic
+Continental Hospitals,Rangareddy,Tertiary Hospital,Private,17.4156,78.345,750,Multi-specialty,Yes,Synthetic
+Sunshine Hospitals,Hyderabad,Tertiary Hospital,Private,17.4437,78.4867,300,Orthopaedics; Multi-specialty,Yes,Synthetic
+Aster Prime Hospital,Hyderabad,Tertiary Hospital,Private,17.438,78.4483,150,Multi-specialty,Yes,Synthetic
+NIMS Hospital,Hyderabad,Government Teaching Hospital,Government,17.4245,78.451,1000,Multi-specialty; Teaching,Yes,Synthetic
+Osmania General Hospital,Hyderabad,Government Teaching Hospital,Government,17.3715,78.476,1100,Multi-specialty; Teaching,Yes,Synthetic
+Gandhi Hospital,Hyderabad,Government Teaching Hospital,Government,17.4144,78.5,1200,Multi-specialty; Teaching,Yes,Synthetic
+MNJ Institute of Oncology,Hyderabad,Specialty Hospital,Government,17.4005,78.4618,450,Oncology,Yes,Synthetic
+Niloufer Hospital,Hyderabad,Government Specialty Hospital,Government,17.393,78.4555,1000,Women & Children,Yes,Synthetic
+Basavatarakam Indo American Cancer Hospital,Hyderabad,Specialty Hospital,Trust,17.4135,78.4457,500,Oncology,Yes,Synthetic
+Rainbow Children's Hospital,Hyderabad,Specialty Hospital,Private,17.416,78.4488,225,Paediatrics; Women & Children,Yes,Synthetic
+Virinchi Hospitals,Hyderabad,Tertiary Hospital,Private,17.4089,78.448,350,Multi-specialty,Yes,Synthetic
+Kamineni Hospitals,Hyderabad,Tertiary Hospital,Private,17.3467,78.5578,300,Multi-specialty,Yes,Synthetic
+Kamineni Academy of Medical Sciences,Rangareddy,Teaching Hospital,Private,17.348,78.557,500,Multi-specialty; Teaching,Yes,Synthetic
+Apollo Hospitals Secunderabad,Hyderabad,Tertiary Hospital,Private,17.443,78.503,300,Multi-specialty,Yes,Synthetic
+Apollo Hospitals DRDO,Hyderabad,Specialty Hospital,Private,17.3295,78.521,350,Multi-specialty,Yes,Synthetic
+Apollo Reach Hospital Karimnagar,Karimnagar,Tertiary Hospital,Private,18.4386,79.1288,250,Multi-specialty,Yes,Synthetic
+Apollo Reach Hospital Warangal,Hanumakonda,Tertiary Hospital,Private,17.9689,79.5941,200,Multi-specialty,Yes,Synthetic
+KIMS Hospital Kondapur,Rangareddy,Tertiary Hospital,Private,17.4699,78.367,300,Multi-specialty,Yes,Synthetic
+AIG Hospitals Karimnagar,Karimnagar,Tertiary Hospital,Private,18.43,79.13,150,Multi-specialty,Yes,Synthetic
+Prathima Institute of Medical Sciences,Karimnagar,Teaching Hospital,Private,18.38,79.16,750,Multi-specialty; Teaching,Yes,Synthetic
+Malla Reddy Narayana Multispeciality Hospital,Medchal-Malkajgiri,Tertiary Hospital,Private,17.555,78.438,500,Multi-specialty,Yes,Synthetic
+Malla Reddy Institute of Medical Sciences,Medchal-Malkajgiri,Teaching Hospital,Private,17.556,78.439,750,Multi-specialty; Teaching,Yes,Synthetic
+Medicover Hospitals Hitec City,Rangareddy,Tertiary Hospital,Private,17.453,78.378,250,Multi-specialty,Yes,Synthetic
+KIMS Hospital Warangal,Hanumakonda,Tertiary Hospital,Private,17.985,79.6,250,Multi-specialty,Yes,Synthetic
+Prathima Hospitals Warangal,Hanumakonda,Tertiary Hospital,Private,17.99,79.59,200,Multi-specialty,Yes,Synthetic
+Mamata Academy of Medical Sciences,Khammam,Teaching Hospital,Private,17.2473,80.1514,750,Multi-specialty; Teaching,Yes,Synthetic
+Mamata General Hospital,Khammam,Tertiary Hospital,Private,17.25,80.15,400,Multi-specialty,Yes,Synthetic
+Aster Aadhar Hospital,Nizamabad,Tertiary Hospital,Private,18.67,78.1,200,Multi-specialty,Yes,Synthetic
